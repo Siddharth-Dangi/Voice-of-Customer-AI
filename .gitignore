@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+voc_ai.db
+reports/
+.streamlit/secrets.toml
